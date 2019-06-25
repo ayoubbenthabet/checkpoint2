@@ -1,0 +1,17 @@
+body {
+    background-image:Linear-gradient(217deg, hsla(0, 96%, 41%, 0.938), rgb(0, 92, 230) 70.71%);
+}
+div.container {
+    widows: 200px;;
+    border:1em solid rgb(75, 7, 7);
+}
+div.split {
+    background-color: rgb(182, 84, 84);
+    box-sizing:border-box;
+    widows: 50px;
+    border:1em silver ridge;
+    float:left;
+}
+.split {
+    display: inline;
+}
